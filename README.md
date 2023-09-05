@@ -17,6 +17,6 @@ Install with npm
 
 App deployed at the following URL using Vercel. Feel free to test it :)
 ```bash
-  [...](https://react-web-ide.vercel.app/)https://react-web-ide.vercel.app/
+  https://react-web-ide.vercel.app/
 ```
 
