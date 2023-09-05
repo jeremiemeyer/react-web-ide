@@ -7,9 +7,10 @@ const initialState = [
         lang: "html",
         imgURL: html,
         buttonContent: "HTML",
-        code: `<div>
-        <h1>Welcome to the web IDE</h1>
-        <p>A simple HTML/CSS/JS web-app editor powered by React!</p>
+        code: `
+        <div>
+            <h1>Welcome to the web IDE</h1>
+            <p>A simple HTML/CSS/JS web-app editor powered by React!</p>
         </div>`
     },
     {
@@ -17,7 +18,8 @@ const initialState = [
         lang: "css",
         imgURL: css,
         buttonContent: "CSS",
-        code: `body {
+        code: `
+        body {
             font-family: Roboto, sans-serif;
             padding: 25px;
             color: #111;
@@ -29,7 +31,8 @@ const initialState = [
         lang: "javascript",
         imgURL: js,
         buttonContent: "JavaScript",
-        code: `console.log("You can put any code here.");
+        code: `
+        console.log("You can put any code here.");
         `
     },
 
